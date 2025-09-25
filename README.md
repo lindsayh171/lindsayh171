@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Lindsay! 👋
 
+I am a current senior studying Computer Science at the University of Vermont. Over the course of my academic journey, I have developed an interest in various disciplines, including full-stack development, software engineering, and database systems/administration. Some of my recent projects have included work with C++, HTML, CSS, Javascript, PHP, SQL, and Python. I also have significant experience with Java and am in the process of learnign Swift, C, and JavaScript. 
+
+### 📫 How to reach me:
+* LinkedIn - https://www.linkedin.com/in/lindsayhall171/
+* Email - lindsayh171@gmail.com
 <!--
 **lindsayh171/lindsayh171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
